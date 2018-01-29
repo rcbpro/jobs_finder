@@ -1,0 +1,528 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main_content{
+	margin:0 auto; margin-top:10px; width:938px; height:545px;
+}
+#header_content{
+	height:136px; width:938px; 
+}
+#login_area{
+	height:49px; width:938px;
+}
+#top_navigation{
+	background:url(../../images/site_images/top_navigation_header.jpg) no-repeat top; width:938px; height:76px;
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; color:#68696b; font-weight:bold;	
+}
+#footer{
+	width:938px; height:40px; clear:both;
+} 
+#login_area_image{
+	width:370px; height:25px; padding-left:5px; float:right; padding-top:5px;
+	background:url(../../images/site_images/login_area.jpg) no-repeat;
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;
+}
+#tot_middle{
+	width:938px; height:400px;
+}
+#left_content{
+	height:545px; width:150px;
+	background:url(../../images/site_images/left_panel.jpg) left no-repeat;
+	float:left;
+}
+#middle_content{
+	width:619px; height:387px; float:left; margin-top:0px; margin-left:10px;
+	background:url(../../images/site_images/middle_box_wrapper.jpg) no-repeat;
+}
+#right_content{
+	width:149px; height:545px; float:right;
+	background:url(../../images/site_images/right_panel.jpg) right no-repeat;
+}
+#box_wrappers{
+	height:368px; width:619px;
+}
+#company_box{
+	margin-top:10px; margin-left:15px; 
+}
+#industry_box{
+	margin-top:10px; margin-left:10px;
+}
+#category_box{
+	margin-top:10px; margin-left:10px;
+}
+#rest_middle{
+	height:148px; width:623px; float:left; text-align:center;
+}
+#rest_middle_for_others_1{
+	height:100px; width:418px; float:left; margin-top:128px; text-align:center;	
+}
+#rest_middle_for_others_2{
+	height:100px; width:418px; float:left; margin-top:238px; text-align:center;	
+}
+#rest_middle_for_others_3{
+	height:100px; width:418px; float:left; margin-top:23px; text-align:center;	
+}
+#rest_middle_1{
+	height:148px; width:300px; float:left; margin-left:1px;
+	background:url(../../images/site_images/com_features.jpg) no-repeat;
+}
+#rest_middle_2{
+	height:148px; width:300px; float:left; margin-left:18px; 
+	background:url(../../images/site_images/com_features.jpg) no-repeat;
+}
+#space_height_2{
+	width:938px; height:25px;
+}
+#link_header_title_for_main{
+	width:600px; height:15px; margin-top:15px; margin-left:10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-align:center;
+}
+#link_header_title{
+	width:400px; height:15px; margin-top:10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-align:right; float:left;
+}
+#go_to_page_selection{
+	font-size:11px; font-weight:normal; width:180px; height:15px; margin-top:10px; float:left; clear:right; text-align:right; padding-right:20px;
+}
+#job_category_area{
+	width:88px;	height:144px; margin-top:13px; margin-left:6px;	text-align:center;
+}
+#blog_area{
+	width:137px; height:130px; margin-left:7px; margin-top:15px; text-align:center; float:left;
+}
+#small_blog_content{
+	width:68px;	height:53px; margin-top:10px; 
+	text-align:center; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px; color:#006699; padding-left:10px; padding-right:10px; padding-bottom:10px;	
+}
+#see_all_posted{
+	font-size:11px; font-weight:bold; font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+#ads_area{
+	width:126px; height:140px; margin-left:6px; clear:both; padding-left:10px; padding-top:10px;
+	text-align:center;	
+}
+#ads_area_content_1{
+	width:88px; height:17px;
+	text-align:center;		
+}
+#ads_area_content_2{
+	width:78px; height:76px; padding-left:10px;		
+	text-align:left;	
+}
+#recruiters_area{
+	width:134px; height:158px; margin-top:13px; margin-left:9px; 
+	text-align:center;
+}
+#featured_candidate_area{
+	width:134px; height:182px; margin-top:7px; margin-left:8px; 
+	text-align:center;	
+}
+#chat_area{
+	width:134px; height:172px; margin-top:9px; margin-left:8px;
+	text-align:center;	
+}
+#footer_navigation_1{
+	width:275px; height:15px; float:left; padding-top:5px; padding-left:10px; 
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px; font-weight:normal;
+}
+#footer_navigation_2{
+	width:638px; height:15px; float:left; padding-left:5px; padding-top:5px; padding-right:10px; 
+	text-align:right; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px; font-weight:normal;	
+}
+#job_category_content{
+	width:83px; height:117px; margin-top:13px; font-weight:bold;
+	text-align:center; color:#ff8000; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px;
+}
+#client_login{
+	height:105px; width:100px; margin-left:40px; margin-top:5px;
+	font-size: 11px;
+}
+#client_registration{
+	height:215px; width:370px; margin-left:30px;
+	font-size: 11px;
+}
+div#show_all{
+	height:15px; width:83px;
+}
+div#some_job_cats{
+	height:160px; width:108px; text-align:left; padding-left:15px; padding-right:15px; padding-bottom:10px; margin-top:-5px; float:left;
+}
+div.genaral_info{
+	height:20px; width:400px; margin-top:10px; margin-bottom:10px; font-size:14px; font-weight:bold; color:#06f; text-align:left; padding-left:90px; 
+}
+table#client_register_1 td{
+	padding-top:1px; padding-left:10px;	
+}
+table#client_register_1 input,textarea,select{
+	border:solid 1px #000;
+}
+table#client_register_1 input:hover,textarea:hover,select:hover{
+	border:solid 1px #999999;
+}
+table#client_register_1 input{
+	width:250px;
+}
+table#client_register_1 select{
+	width:150px;
+}
+table#client_register_2 td{
+	padding-top:1px; padding-left:10px;	
+}
+table#client_register_2 input{
+	border:solid 1px #000; width:175px;	
+}
+table#client_register_2 input:hover{
+	border:solid 1px #999999; width:175px;	
+}
+table#client_register_3 td{
+	padding-top:1px; padding-left:10px;	
+}
+table#client_register_3 input{
+	border:solid 1px #000; width:175px;	
+}
+table#client_register_3 input:hover{
+	border:solid 1px #999999; width:175px;	
+}
+#btn_Continue{
+	width:100px !important;	margin-top:10px; margin-left:180px;	float:left;
+}
+#btn_Continue_2{
+	width:100px !important;	margin-top:10px; margin-left:140px;
+}
+#user_available_chk{
+	width:115px; height:25px; float:left; margin-left:3px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px;
+}
+#btn_Continue_3{
+	width:100px !important;	margin-top:10px; margin-left:146px;
+}
+#registerd_success{
+	height:100px; font-size:13px; color:#06f; font-weight:bold; 
+}
+#messageBox{
+	height:20px; width:100px;
+}
+#ask_for_login{
+	width:200px; height:55px; margin-left:225px; padding-top:20px; color:#06f; font-weight:bold; 
+}
+#login_info{
+	height:100px; width:225px; margin-left:200px; text-align:right; color:#06f;
+}
+#space_div_height_2{
+	width:200px; height:5px;
+}
+#login_button{
+	margin-right:75px; margin-top:5px; width:50px;
+}
+#asking_registered{
+ 	width:140px; height:10px; color:#06f; padding-top:20px; margin-left:15px; float:left;
+}
+#loginMessageBox{
+	width:200px; height:30px; float:left; margin-left:15px;
+}
+div#ask_for_login{
+	cursor:default;
+}
+div#ask_for_login:hover{
+	cursor:pointer;
+}
+#industry_content{
+	width:600px; height:335px; margin-left:9px; 
+}
+#industry_page_no{
+	height:20x; width:590px; vertical-align:top; clear:left; padding-left:10px; 
+}
+#title_content_wrapper{
+	width:600px; height:25px; margin-left:9px; margin-top:10px; 
+}
+#industry_navigation{
+	width:600px; height:308px; 
+}
+#industry_pagination{
+	height:16px; width:600px; text-align:center;
+}
+#go_to_page{
+	width:50px;	height:20px; margin-left:455px; 
+}
+#login_register_info_box{
+	height:340px; width:600px; margin-left:10px;
+}
+#login_info_div{
+	height:45px; width:155px; padding-left:45px; text-align:left; margin-top:10px;
+}
+#search_content_area{
+	width:600px; height:345px; margin-left:10px; 
+}
+#search_type_headers{
+	color:#06f; width:365px; height:55px; padding-left:235px;
+}
+#search_type_content_1{
+	width:470px; height:200px; padding-top:40px; padding-left:130px; 
+}
+#search_type_content_1 span{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#06f; margin-right:10px;	  
+}
+#search_type_content_2{
+	width:600px; height:200px; padding-top:40px; 
+}
+#example{
+	font-size:10px !important; margin-left:30px;
+}
+#advance_search_content_1{
+	width:600px; height:75px; 
+}
+#advance_search_content_1 span{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#06f;
+}
+#advance_search_content_2{
+	width:600px; height:50px; 
+}
+#advance_search_content_2 span{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#06f;
+}
+#advance_search_content_3{
+	width:600px; height:60px; padding-top:13px;
+}
+#advance_search_content_3 span{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#06f;
+}
+#serach_result_pagination{
+	width:600px; text-align:center; height:25px;
+}
+#search_header_page_area{
+	height:50px; width:598px; margin-left:10px; margin-right:10px;
+}
+#could_not_found{
+	width:340px; height:15px; padding-top:120px; padding-bottom:120px; padding-left:140px; font-weight:bold; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:16px; color:#FF0000;
+}
+
+
+.company_content{
+	width:183px; height:245px; margin-left:4px;
+}
+.industry_navigation{
+	width:180px; height:288px; float:left; padding:10px 10px 10px 10px; text-align:center;
+}
+.cat_name{
+	width:180px; height:15px; color:#FF9900; font-weight:bold; font-style:italic; text-align:left; 
+}
+.vacancy_name{
+	width:180px; height:30px; text-align:center; font-size:11px; background-color:#FFFF00;
+}
+.vacancy_description{
+	width:180px; height:40px; text-align:center; font-size:11px; 
+}
+.new_div_height{
+	width:180px; height:20px; background-color:#FFCC00;
+}
+.com_name_for_front{
+	width:180px; height:15px; color:#FF9900; font-weight:bold; font-style:italic; text-align:center;
+}
+a.com_name_for_front{
+	width:180px; height:15px; color:#FF9900; font-weight:bold; font-style:italic; text-align:center; text-decoration:underline;
+}
+a.com_name_for_front:hover{
+	width:180px; height:15px; color:#FF9900; font-weight:bold; font-style:italic; text-align:center; text-decoration:none;
+}
+.cat_name_for_front{
+	color:#FF9900; font-size:11px !important; font-weight:bold !important; font-style:italic; text-align:center;
+}	
+a.cat_name_for_front{
+	color:#FF9900; font-size:11px !important; font-weight:bold !important; font-style:italic; text-align:center; text-decoration:underline;
+}	
+a.cat_name_for_front:hover{
+	color:#FF9900; font-size:11px !important; font-weight:bold !important; font-style:italic; text-align:center; text-decoration:none;
+}	
+.ind_name_for_front{
+	width:180px; height:15px; color:#FF9900; font-weight:bold; font-style:italic; text-align:center; 
+}
+a.ind_name_for_front{
+	width:180px; height:15px; color:#FF9900; font-weight:bold; font-style:italic; text-align:center; text-decoration:underline; 
+}
+a.ind_name_for_front:hover{
+	width:180px; height:15px; color:#FF9900; font-weight:bold; font-style:italic; text-align:center; text-decoration:none; 
+}
+.vacancy_name_for_front{
+	width:140px; height:15px; text-align:left; font-size:10px; padding-left:30px; 
+}
+.vacancy_name_for_front_1{
+	width:160px; height:15px; text-align:left; font-size:10px !important; padding-left:30px; 
+}
+.vacancy_name_for_front_2{
+	width:160px; height:15px; text-align:left; font-size:10px !important; padding-left:30px;
+}		
+a.vacancy_name_for_front{
+	color:#000000; text-decoration:none; padding-left:0;  	
+}
+a.vacancy_name_for_front:hover{
+	color:#FF9900; text-decoration:none; 
+}
+a.vacancy_name_for_front_1{
+	color:#000000; text-decoration:none; padding-left:0;  	
+}
+a.vacancy_name_for_front_1:hover{
+	color:#FF9900; text-decoration:none; 
+}
+a.vacancy_name_for_front_2{
+	color:#000000; text-decoration:none; padding-left:0;  	
+}
+a.vacancy_name_for_front_2:hover{
+	color:#FF9900; text-decoration:none; 
+}
+.login_inputs{
+	margin-left:25px; margin-top:5px; width:125px; height:15px; border:solid 1px #000;
+}
+.login_inputs;hover{
+	margin-left:25px; margin-top:5px; width:125px; height:15px; border:1px solid #999999;
+}
+.login_type{
+	width:10px; cursor:default;
+}
+.login_type:hover{
+	width:10px; cursor:pointer;
+}
+.navigation_link{
+	padding-left:40px;
+}
+.space_width_div{
+	width:938px; height:10px;
+}
+.space_width_div_2{
+	width:938px; height:10px;
+}
+.commonProperty{
+	height:255px; width:190px; float:left; 
+}
+.newBoxHeader{
+	background:url(../../images/site_images/box_2_top.jpg) !important;
+	width:190px !important; height:28px !important; color:#ff8000 !important;	
+}
+.newBoxMiddle{
+	background:url(../../images/site_images/box_2_middle.jpg) !important; 
+	width:190px !important; 
+}
+.newBoxBottom{
+	background:url(../../images/site_images/box_2_bottom.jpg) !important;
+	width:190px !important; height:17px !important;	
+}
+.box_header{
+	background:url(../../images/site_images/box_1_top.jpg) top no-repeat;
+	width:190px; height:27px; margin-top:10px; text-align:center; padding-top:2px;
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; font-weight:bold; color:#ffde41; 
+}
+.box_middle{
+	background:url(../../images/site_images/box_1_middle.jpg) repeat-y;
+	height:255px; width:190px; margin-top:-1px; padding-top:10px; padding-bottom:10px; 
+}
+.box_bottom{
+	background:url(../../images/site_images/box_1_bottom.jpg) no-repeat bottom;	
+	width:190px; height:17px; margin-top:-10px;
+}
+.defaultFont{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#000000;	
+}
+.padding21{
+	padding-left:21px;
+}
+.nav_links{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; color:#68696b; font-weight:bold; text-decoration:none;	
+}
+.nav_links:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; color:#FFFFFF; font-weight:bold; text-decoration:none;	
+}
+.login_links{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; text-decoration:none; color:#000000; font-weight:bold;	
+}
+.login_links:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px; text-decoration:none; color:#FFFFFF; font-weight:bold;	
+}
+.new_login_link{
+	color:#0000FF !important; text-decoration:none;
+}
+.new_login_link:hover{
+	color:#000000 !important; text-decoration:none;	
+}
+.new_login_link:active{
+	color:#FFFFFF !important; text-decoration:none;	
+}
+.box_title{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#000000; text-align:center; margin-top:20px;
+	width:138px; height:15px;
+}
+.box_title_2{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#000000; text-align:center; margin-top:10px;
+	width:138px; height:15px;
+}
+.bottom_headers{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:bold; color:#ffde41;
+	width:300px;
+}
+.footer_links{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px; text-decoration:none; color:#000000;
+}
+.footer_links:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px; text-decoration:underline; color:#000000;	
+}
+.job_cats{
+	list-style:none; display:block; width:120px; margin-left:-5px;
+}
+.job-cat_names{
+	text-decoration:none; color:#ff8000; 
+}
+.job-cat_names:hover{
+	text-decoration:none; color:#000000;	
+}
+.ads_area_text{
+	display:block; color:#000000; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:9px;
+}
+.importantFeild{
+	color:#FF0000;
+	padding-left:2px;
+}
+.space_div_height{
+	width:350px; height:30px;
+}
+.activation_mail{
+	text-decoration:underline; color:#000000; background-color:#FFFF00;
+}
+.activation_mail:hover{
+	text-decoration:none; color:#FF9900; background-color:#FFFFFF;	
+}
+.user_name_check{
+	font-size:9px !important; color:#06f; text-decoration:none;
+}
+.user_name_check:hover{
+	font-size:9px !important; color:#06f; text-decoration:none;
+}
+.industry_pag_links{
+	color:#06f;	text-decoration:none;	
+}
+.industry_pag_links:hover{
+	color:#000;	text-decoration:none;	
+}
+.show_all_for_three_boxes{
+	width:190px; height:20px; color:#FF9900; font-weight:bold; padding-left:10px; text-align:center;
+}
+div.show_all_for_three_boxes a{
+	width:90px; height:20px; color:#FF9900; font-weight:bold; text-decoration:none; 
+}
+div.show_all_for_three_boxes a:hover{
+	width:90px; height:20px; color:#000000; font-weight:bold; text-decoration:underline; 
+}
+.marginAuto{
+	margin-top:27px;
+}
+.single_industry_navigation{
+	width:390px; padding-left:200px;
+}
+a.vacancy_name_for_back{
+	width:140px; height:15px; text-align:left; font-size:10px; text-decoration:underline; color:#000000;
+}
+a.vacancy_name_for_back:hover{
+	width:140px; height:15px; text-align:left; font-size:10px; text-decoration:none; color:#FF9900;
+}
+.back_link{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; text-decoration:underline; color:#000000;
+}
+.back_link:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; color:#000000;
+}

@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* This stylesheet for the design issues in the front end ... */
+
+/* For my_account.php */
+#navigation_link1{
+	margin-left:35px;
+}
+#navigation_link2{
+	margin-left:45px;
+}
+#navigation_link3{
+	margin-left:3px;
+}
+#navigation_link4{
+	margin-left:-5px;
+}
+#navigation_link5{
+	margin-left:11px;
+}
+
+/* For Search.php */
+#navigation_link6{
+	margin-left:9px;
+}
+#navigation_link7{
+	margin-left:35px;
+}
+#navigation_link8{
+	margin-left:33px;
+}
+#navigation_link9{
+	margin-left:-3px;
+}
+#navigation_link10{
+	margin-left:11px;
+}
+
+/* For industries.php */
+#navigation_link11{
+	margin-left:9px;
+}
+#navigation_link12{
+	margin-left:12px;
+}
+#navigation_link13{
+	margin-left:28px;
+}
+#navigation_link14{
+	margin-left:28px;
+}
+#navigation_link15{
+	margin-left:6px;
+}
+
+/* For career_advice.php */
+#navigation_link16{
+	margin-left:9px;
+}
+#navigation_link17{
+	margin-left:12px;
+}
+#navigation_link18{
+	margin-left:2px;
+}
+#navigation_link19{
+	margin-left:39px;
+}
+#navigation_link20{
+	margin-left:53px;
+}
+
+/* For companies.php */
+#navigation_link21{
+	margin-left:9px;
+}
+#navigation_link22{
+	margin-left:11px;
+}
+#navigation_link23{
+	margin-left:2px;
+}
+#navigation_link24{
+	margin-left:0;
+}
+#navigation_link25{
+	margin-left:33px;
+}

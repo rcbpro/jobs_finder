@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+#box_wrappers{
+	height:343px !important;
+}
+#company_box{
+	margin-left:7px !important;
+}
+#rest_middle{
+	margin-top:19px !important;
+}
+#link_header_titlle{
+	width:225px !important; 
+}
+#footer{
+	margin-top:-12px;	
+}
+#job_category_content{
+	margin-top:5px !important; margin-left:-10px !important; width:85px !important; padding-left:0 !important;		
+}
+div#show_all{
+	width:85px !important; padding-left:18px !important;	
+}
+div#some_job_cats{
+	width:118px !important; margin-top:5px !important;
+}
+#small_blog_content{
+	height:57px !important;
+}
+#rest_middle_for_others_1{
+	margin-top:10px !important;
+}
+#btn_Continue{
+	margin-left:123px;
+}
+#btn_Continue_2{
+	width:100px !important;	margin-left:128px !important;
+}

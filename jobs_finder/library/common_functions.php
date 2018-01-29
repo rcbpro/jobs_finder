@@ -1,0 +1,4 @@
+<?php
+	/* All common functions */
+	
+?>
